@@ -24,4 +24,4 @@ Developed as a **learning project** after completing a YOLO course — focused o
 
 ### 🔗 Results & Dataset
 All project outputs (model, dataset, tracking video) are available here:  
-Google Drive Project Folder: https://drive.google.com/drive/folders/1zTM3Qs-HEd3daJOgq3gq1TydAAXz-BuE?usp=drive_link
+Google Drive Link: https://drive.google.com/drive/folders/1zTM3Qs-HEd3daJOgq3gq1TydAAXz-BuE?usp=drive_link
